@@ -1,0 +1,29 @@
+_repo: Art-in-AmericaA-Critical-and-Historial-Sketch_40604
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 40604-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Benjamin, S. G. W. (Samuel Greene Wheeler)
+    alias: Benjamin, Samuel Greene Wheeler
+    birthdate: 1837
+    deathdate: 1914
+    gutenberg_agent_id: '40724'
+    url: http://www.gutenberg.org/2009/agents/40724
+    wikipedia: http://en.wikipedia.org/wiki/Samuel_Greene_Wheeler_Benjamin
+description: ''
+gutenberg_issued: '2012-08-28'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '40604'
+  lccn: 09011905
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Art, American'
+- !lcc 'N'
+title: 'Art in America: A Critical and Historial Sketch'
+url: http://www.gutenberg.org/ebooks/40604
